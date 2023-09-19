@@ -1,2 +1,2 @@
 # QuantikGame
-Quantik game en java
+Quantik game en Java
