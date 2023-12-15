@@ -1,2 +1,2 @@
 # QuantikGame
-Quantik game en Java
+Juego de mesa Quantik en Java
