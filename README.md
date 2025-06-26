@@ -38,7 +38,3 @@ The goal is to be the first player to place four different shaped pieces in a li
 - Quick and easy to learn.
 - Enhances logical thinking and strategic planning.
 - Suitable for all ages.
-
----
-
-Do you want help creating instructions for a digital version or adding more details?  
