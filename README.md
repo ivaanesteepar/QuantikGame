@@ -18,7 +18,7 @@ The goal is to be the first player to place four different shaped pieces in a li
 
 ---
 
-## ▶️ How to Play
+## 🎮 How to Play
 
 1. **Setup**: Each player receives their 8 pieces.
 
